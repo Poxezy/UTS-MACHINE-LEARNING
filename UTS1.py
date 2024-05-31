@@ -2,7 +2,7 @@ import pandas as pd
 
 data = {
     'Hari': ['Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu', 'Minggu'],
-    'Datang': [2, 3, 4, 1, 1, 5, 2],
+    'Datang': [2, 3, 4, 1, 2, 5, 2],
     'Biaya': [30000*2, 35000*3, 25000*4, 15000*1, 20000*1, 30000*5, 35000*2],
     'Mahasiswa': ['Ani', 'Budi', 'Jono', 'Lono', 'Joni', 'Ani', 'Budi']
 }
